@@ -31,14 +31,6 @@ B.Tech AI student | Aspiring Data Scientist &amp; AI Engineer | Passionate about
 👉 More projects coming soon...
 
 ---
-
-## 🏆 GitHub Stats
-
-![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neha-chouhan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-chouhan&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 www.linkedin.com/in/neha-chouhan-n3399
   
