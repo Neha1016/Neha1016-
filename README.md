@@ -25,7 +25,7 @@ B.Tech AI student | Aspiring Data Scientist &amp; AI Engineer | Passionate about
 
 ## 📌 Featured Projects
 - 🧮 [Student Performance Prediction](#) *(Python + ML)*  
-- 🤖 [AI Chatbot](#) *(NLP Project)*  
+- 🤖 [Machine Learning Based Project]
 - 🌐 [My Portfolio Website](#) *(HTML/CSS)*
 
 👉 More projects coming soon...
